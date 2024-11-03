@@ -1,0 +1,7 @@
+* .sw *
+.coverage
+.pytest_cache
+*pycache*
+logs
+data/*.csv
+.env
