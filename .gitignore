@@ -1,7 +1,22 @@
-* .sw *
-.coverage
-.pytest_cache
-*pycache*
-logs
-data/*.csv
+# Python virtual environment
 .env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated QR code images
+qr_codes
+
+# Python command history
+.python_history
+
+# Log files
+*.log
