@@ -12,8 +12,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Generated QR code images
-qr_codes
 
 # Python command history
 .python_history
